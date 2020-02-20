@@ -1,6 +1,11 @@
 # Using-the-process-API
 Practicing with fork, exec, wait. 
 
+###Overview
+
+The goal is for you to practice using the unix process API, i.e., 'fork()', 'exec()', 'wait()', and 'exit()'. Some questions do not require a direct answer. All questions ask you to write a program. To write the programs, you will simply adapt the examples shown in Chapter 5. The actual source code for Chapter 5 is provided in the book's companion website (http://pages.cs.wisc.edu/~remzi/OSTEP/). 
+
+
 
 Questions
 1. Write a program that calls `fork()`. Before calling `fork()`, have the main process access a variable (e.g., x) and set its value to something (e.g., 100). What value is the variable in the child process? What happens to the vari- able when both the child and parent change the value of x?
