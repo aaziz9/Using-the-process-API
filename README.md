@@ -7,11 +7,11 @@ The goal is for you to practice using the unix process API, i.e., 'fork()', 'exe
 
 
 ### Questions
-1. Write a program that calls `fork()`. Before calling `fork()`, have the main process access a variable (e.g., x) and set its value to something (e.g., 100). What value is the variable in the child process? What happens to the vari- able when both the child and parent change the value of x?
+1. Write a program that calls `fork()`. Before calling `fork()`, have the main process access a variable (e.g., x) and set its value to something (e.g., 100). What value is the variable in the child process? What happens to the variable when both the child and parent change the value of x?
 
 
 ```cpp
-\\ Add your code here. 
+\\ Add your code or answer here. 
 ```
 
 
